@@ -4,3 +4,4 @@ console.log('where the file');
 console.log(__dirname);
 
 console.log('fix a bug');
+console.log('fix another bug');
